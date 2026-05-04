@@ -5,6 +5,6 @@
 using namespace std
 
 
-int MainFunction(){
+int MAINFUNCTION(){
 
 }
